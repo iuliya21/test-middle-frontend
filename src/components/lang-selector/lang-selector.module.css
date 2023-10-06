@@ -1,0 +1,17 @@
+.selectContainer {
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+  font-family: "Ubuntu";
+  color: #dce2e1;
+}
+
+.select {
+  background-color: #dce2e1;
+  color: #433936;
+  font-family: "Ubuntu";
+  border: none;
+  border-radius: 5px;
+  padding: 2px;
+  cursor: pointer;
+}

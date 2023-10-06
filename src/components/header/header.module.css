@@ -1,0 +1,18 @@
+.header {
+  box-sizing: border-box;
+  background: url(../../images/background.jpg) center/cover no-repeat;
+  height: 350px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  row-gap: 20px;
+}
+
+.title {
+  font-family: 'Young Serif';
+  margin: 0;
+  align-self: start;
+  margin-top: auto;
+  color: #dce2e1;
+}
