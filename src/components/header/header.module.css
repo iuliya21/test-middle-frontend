@@ -1,6 +1,6 @@
 .header {
   box-sizing: border-box;
-  background: url(../../images/background.jpg) center/cover no-repeat;
+  background: url(../../images/background.jpg) top/cover no-repeat;
   height: 350px;
   padding: 15px;
   display: flex;
